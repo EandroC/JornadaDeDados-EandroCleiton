@@ -1,0 +1,354 @@
+IdentificadorQuestao;DivisaoQuestionario;NomeCategoria;pergunta;TipoPergunta;DescricaoPergunta;Opcao;DescricaoOpcao
+P0;Parte0;Identificador;P0;Fechada;id;-;-
+P1_a;Parte1;Dados demográficos;P1_a;Aberta;Idade;-;-
+P1_a_1;Parte1;Dados demográficos;P1_a;Opção da Pergunta Aberta P1_a;Idade;1;Faixa idade
+P1_b;Parte1;Dados demográficos;P1_b;Fechada;Genero;-;-
+P1_c;Parte1;Dados demográficos;P1_c;Fechada;Cor/raca/etnia;-;-
+P1_d;Parte1;Dados demográficos;P1_d;Fechada;PCD;-;-
+P1_e;Parte1;Dados demográficos;P1_e;Fechada;experiencia_profissional_prejudicada;-;-
+P1_f;Parte1;Dados demográficos;P1_f;Fechada;aspectos_prejudicados;-;-
+P1_g;Parte1;Dados demográficos;P1_g;Fechada;vive_no_brasil;-;-
+P1_i;Parte1;Dados demográficos;P1_i;Aberta;Estado onde mora;-;-
+P1_i_1;Parte1;Dados demográficos;P1_i;Opção da Pergunta Aberta P1_i;Estado onde mora;1;uf onde mora
+P1_i_2;Parte1;Dados demográficos;P1_i;Opção da Pergunta Aberta P1_i;Estado onde mora;2;Regiao onde mora
+P1_j;Parte1;Dados demográficos;P1_j;Fechada;Mudou de Estado?;-;-
+P1_k;Parte1;Dados demográficos;P1_k;Fechada;Regiao de origem;-;-
+P1_l;Parte1;Dados demográficos;P1_l;Fechada;Nivel de Ensino;-;-
+P1_m;Parte1;Dados demográficos;P1_m;Fechada;Área de Formação;-;-
+P2_a;Parte2;Dados sobre carreira;P2_a;Fechada;Qual sua situação atual de trabalho?;-;-
+P2_b;Parte2;Dados sobre carreira;P2_b;Fechada;Setor;-;-
+P2_c;Parte2;Dados sobre carreira;P2_c;Fechada;Numero de Funcionarios;-;-
+P2_d;Parte2;Dados sobre carreira;P2_d;Fechada;Gestor?;-;-
+P2_e;Parte2;Dados sobre carreira;P2_e;Fechada;Cargo como Gestor;-;-
+P2_f;Parte2;Dados sobre carreira;P2_f;Fechada;Cargo Atual;-;-
+P2_g;Parte2;Dados sobre carreira;P2_g;Fechada;Nivel;-;-
+P2_h;Parte2;Dados sobre carreira;P2_h;Fechada;Faixa salarial;-;-
+P2_i;Parte2;Dados sobre carreira;P2_i;Fechada;Quanto tempo de experiência na área de dados você tem?;-;-
+P2_j;Parte2;Dados sobre carreira;P2_j;Fechada;Quanto tempo de experiência na área de TI/Engenharia de Software você teve antes de começar a trabalhar na área de dados?;-;-
+P2_k;Parte2;Dados sobre carreira;P2_k;Fechada;Você está satisfeito na sua empresa atual?;-;-
+P2_l;Parte2;Dados sobre carreira;P2_l;Aberta;Qual o principal motivo da sua insatisfação com a empresa atual?;-;-
+P2_l_1;Parte2;Dados sobre carreira;P2_l;Opção da Pergunta Aberta P2_l;Qual o principal motivo da sua insatisfação com a empresa atual?;1;Falta de oportunidade de crescimento no emprego atual
+P2_l_2;Parte2;Dados sobre carreira;P2_l;Opção da Pergunta Aberta P2_l;Qual o principal motivo da sua insatisfação com a empresa atual?;2;Salário atual não corresponde ao mercado
+P2_l_3;Parte2;Dados sobre carreira;P2_l;Opção da Pergunta Aberta P2_l;Qual o principal motivo da sua insatisfação com a empresa atual?;3;Não tenho uma boa relação com meu líder/gestor
+P2_l_4;Parte2;Dados sobre carreira;P2_l;Opção da Pergunta Aberta P2_l;Qual o principal motivo da sua insatisfação com a empresa atual?;4;Gostaria de trabalhar em em outra área de atuação
+P2_l_5;Parte2;Dados sobre carreira;P2_l;Opção da Pergunta Aberta P2_l;Qual o principal motivo da sua insatisfação com a empresa atual?;5;Gostaria de receber mais benefícios
+P2_l_6;Parte2;Dados sobre carreira;P2_l;Opção da Pergunta Aberta P2_l;Qual o principal motivo da sua insatisfação com a empresa atual?;6;O clima de trabalho/ambiente não é bom
+P2_l_7;Parte2;Dados sobre carreira;P2_l;Opção da Pergunta Aberta P2_l;Qual o principal motivo da sua insatisfação com a empresa atual?;7;Falta de maturidade analítica na empresa
+P2_m;Parte2;Dados sobre carreira;P2_m;Fechada;Você participou de entrevistas de emprego nos últimos 6 meses?;-;-
+P2_n;Parte2;Dados sobre carreira;P2_n;Fechada;Você pretende mudar de emprego nos próximos 6 meses?;-;-
+P2_o;Parte2;Dados sobre carreira;P2_o;Aberta;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;-;-
+P2_o_1;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;1;Remuneração/Salário
+P2_o_2;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;2;Benefícios
+P2_o_3;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;3;Propósito do trabalho e da empresa
+P2_o_4;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;4;Flexibilidade de trabalho remoto
+P2_o_5;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;5;Ambiente e clima de trabalho
+P2_o_6;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;6;Oportunidade de aprendizado e trabalhar com referências na área
+P2_o_7;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;7;Plano de carreira e oportunidades de crescimento profissional
+P2_o_8;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;8;Maturidade da empresa em termos de tecnologia e dados
+P2_o_9;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;9;Qualidade dos gestores e líderes
+P2_o_10;Parte2;Dados sobre carreira;P2_o;Opção da Pergunta Aberta P2_o;Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?;10;Reputação que a empresa tem no mercado
+P2_p;Parte2;Dados sobre carreira;P2_p;Fechada;Atualmente qual a sua forma de trabalho?;-;-
+P2_q;Parte2;Dados sobre carreira;P2_q;Fechada;Qual a forma de trabalho ideal para você?;-;-
+P2_r;Parte2;Dados sobre carreira;P2_r;Fechada;Caso sua empresa decida pelo modelo 100% presencial qual será sua atitude?;-;-
+P2_s;Parte2;Dados sobre carreira;P2_s;Fechada;Sua empresa passu por Layoff em 2022?;-;-
+P3_a;Parte3;Desafios dos gestores de times de dados;P3_a;Fechada;Qual o número aproximado de pessoas que atuam com dados na sua empresa hoje?;-;-
+P3_b;Parte3;Desafios dos gestores de times de dados;P3_b;Aberta;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;-;-
+P3_b_1;Parte3;Desafios dos gestores de times de dados;P3_b;Opção da Pergunta Aberta P3_b;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;1;Analytics Engineer
+P3_b_2;Parte3;Desafios dos gestores de times de dados;P3_b;Opção da Pergunta Aberta P3_b;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;2;Engenharia de Dados/Data Engineer
+P3_b_3;Parte3;Desafios dos gestores de times de dados;P3_b;Opção da Pergunta Aberta P3_b;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;3;Analista de Dados/Data Analyst
+P3_b_4;Parte3;Desafios dos gestores de times de dados;P3_b;Opção da Pergunta Aberta P3_b;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;4;Cientista de Dados/Data Scientist
+P3_b_5;Parte3;Desafios dos gestores de times de dados;P3_b;Opção da Pergunta Aberta P3_b;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;5;Database Administrator/DBA
+P3_b_6;Parte3;Desafios dos gestores de times de dados;P3_b;Opção da Pergunta Aberta P3_b;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;6;Analista de Business Intelligence/BI
+P3_b_7;Parte3;Desafios dos gestores de times de dados;P3_b;Opção da Pergunta Aberta P3_b;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;7;Arquiteto de Dados/Data Architect
+P3_b_8;Parte3;Desafios dos gestores de times de dados;P3_b;Opção da Pergunta Aberta P3_b;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;8;Data Product Manager/DPM
+P3_b_9;Parte3;Desafios dos gestores de times de dados;P3_b;Opção da Pergunta Aberta P3_b;Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?;9;Business Analyst
+P3_c;Parte3;Desafios dos gestores de times de dados;P3_c;Aberta;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;-;-
+P3_c_1;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;1;Pensar na visão de longo prazo de dados da empresa e fortalecimento da cultura analítica da companhia.
+P3_c_2;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;2;Organização de treinamentos e iniciativas com o objetivo de aumentar a maturidade analítica das áreas de negócios.
+P3_c_3;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;3;Atração, seleção e contratação de talentos para o time de dados.
+P3_c_4;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;4;Decisão sobre contratação de ferramentas e tecnologias relacionadas a dados.
+P3_c_5;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;5;Sou gestor da equipe responsável pela engenharia de dados e por manter o Data Lake da empresa como fonte única dos dados, garantindo a qualidade e confiabilidade da informação.
+P3_c_6;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;6;Sou gestor da equipe responsável pela entrega de dados, estudos, relatórios e dashboards para as áreas de negócio da empresa.
+P3_c_7;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;7;Sou gestor da equipe responsável por iniciativas e projetos envolvendo Inteligência Artificial e Machine Learning.
+P3_c_8;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;8;Apesar de ser gestor ainda atuo na parte técnica, construindo soluções/análises/modelos etc.
+P3_c_9;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;9;Gestão de projetos de dados, cuidando das etapas, equipes envolvidas, atingimento dos objetivos etc.
+P3_c_10;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;10;Gestão de produtos de dados, cuidando da visão dos produtos, backlog, feedback de usuários etc.
+P3_c_11;Parte3;Desafios dos gestores de times de dados;P3_c;Opção da Pergunta Aberta P3_c;Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?;11;Gestão de pessoas, apoio no desenvolvimento das pessoas, evolução de carreira
+P3_d;Parte3;Desafios dos gestores de times de dados;P3_d;Aberta;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;-;-
+P3_d_1;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;1;a Contratar novos talentos.
+P3_d_2;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;2;b Reter talentos.
+P3_d_3;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;3;c Convencer a empresa a aumentar os investimentos na área de dados.
+P3_d_4;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;4;d Gestão de equipes no ambiente remoto.
+P3_d_5;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;5;e Gestão de projetos envolvendo áreas multidisciplinares da empresa.
+P3_d_6;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;6;f Organizar as informações e garantir a qualidade e confiabilidade.
+P3_d_7;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;7;g Conseguir processar e armazenar um alto volume de dados.
+P3_d_8;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;8;h Conseguir gerar valor para as áreas de negócios através de estudos e experimentos.
+P3_d_9;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;9;i Desenvolver e manter modelos Machine Learning em produção.
+P3_d_10;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;10;j Gerenciar a expectativa das áreas de negócio em relação as entregas das equipes de dados.
+P3_d_11;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;11;k Garantir a manutenção dos projetos e modelos em produção, em meio ao crescimento da empresa.
+P3_d_12;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;12;Conseguir levar inovação para a empresa através dos dados.
+P3_d_13;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;13;Garantir retorno do investimento (ROI) em projetos de dados.
+P3_d_14;Parte3;Desafios dos gestores de times de dados;P3_d;Opção da Pergunta Aberta P3_d;Quais são os 3 maiores desafios que você tem como gestor no atual momento?;14;Dividir o tempo entre entregas técnicas e gestão.
+P4_a;Parte4;Conhecimentos na área de dados;P4_a;Aberta;Mesmo que esse não seja seu cargo formal, você considera que sua atuação no dia a dia, reflete alguma das opções listadas abaixo?;-;-
+P4_a_1;Parte4;Conhecimentos na área de dados;P4_a;Opção da Pergunta Aberta P4_a;Mesmo que esse não seja seu cargo formal, você considera que sua atuação no dia a dia, reflete alguma das opções listadas abaixo?;1;Atuacao
+P4_b;Parte4;Conhecimentos na área de dados;P4_b;Aberta;Quais das fontes de dados listadas você já analisou ou processou no trabalho?;-;-
+P4_b_1;Parte4;Conhecimentos na área de dados;P4_b;Opção da Pergunta Aberta P4_b;Quais das fontes de dados listadas você já analisou ou processou no trabalho?;1;Dados relacionais (estruturados em bancos SQL)
+P4_b_2;Parte4;Conhecimentos na área de dados;P4_b;Opção da Pergunta Aberta P4_b;Quais das fontes de dados listadas você já analisou ou processou no trabalho?;2;Dados armazenados em bancos NoSQL
+P4_b_3;Parte4;Conhecimentos na área de dados;P4_b;Opção da Pergunta Aberta P4_b;Quais das fontes de dados listadas você já analisou ou processou no trabalho?;3;Imagens
+P4_b_4;Parte4;Conhecimentos na área de dados;P4_b;Opção da Pergunta Aberta P4_b;Quais das fontes de dados listadas você já analisou ou processou no trabalho?;4;Textos/Documentos
+P4_b_5;Parte4;Conhecimentos na área de dados;P4_b;Opção da Pergunta Aberta P4_b;Quais das fontes de dados listadas você já analisou ou processou no trabalho?;5;Vídeos
+P4_b_6;Parte4;Conhecimentos na área de dados;P4_b;Opção da Pergunta Aberta P4_b;Quais das fontes de dados listadas você já analisou ou processou no trabalho?;6;Áudios
+P4_b_7;Parte4;Conhecimentos na área de dados;P4_b;Opção da Pergunta Aberta P4_b;Quais das fontes de dados listadas você já analisou ou processou no trabalho?;7;Planilhas
+P4_b_8;Parte4;Conhecimentos na área de dados;P4_b;Opção da Pergunta Aberta P4_b;Quais das fontes de dados listadas você já analisou ou processou no trabalho?;8;Dados georeferenciados
+P4_c;Parte4;Conhecimentos na área de dados;P4_c;Aberta;Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?;-;-
+P4_c_1;Parte4;Conhecimentos na área de dados;P4_c;Opção da Pergunta Aberta P4_c;Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?;1;Dados relacionais (estruturados em bancos SQL)
+P4_c_2;Parte4;Conhecimentos na área de dados;P4_c;Opção da Pergunta Aberta P4_c;Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?;2;Dados armazenados em bancos NoSQL
+P4_c_3;Parte4;Conhecimentos na área de dados;P4_c;Opção da Pergunta Aberta P4_c;Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?;3;Imagens
+P4_c_4;Parte4;Conhecimentos na área de dados;P4_c;Opção da Pergunta Aberta P4_c;Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?;4;Textos/Documentos
+P4_c_5;Parte4;Conhecimentos na área de dados;P4_c;Opção da Pergunta Aberta P4_c;Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?;5;Vídeos
+P4_c_6;Parte4;Conhecimentos na área de dados;P4_c;Opção da Pergunta Aberta P4_c;Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?;6;Áudios
+P4_c_7;Parte4;Conhecimentos na área de dados;P4_c;Opção da Pergunta Aberta P4_c;Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?;7;Planilhas
+P4_c_8;Parte4;Conhecimentos na área de dados;P4_c;Opção da Pergunta Aberta P4_c;Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?;8;Dados georeferenciados
+P4_d;Parte4;Conhecimentos na área de dados;P4_d;Aberta;Quais das linguagens listadas abaixo você utiliza no trabalho?;-;-
+P4_d_1;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;1;SQL
+P4_d_2;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;2;R 
+P4_d_3;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;3;Python
+P4_d_4;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;4;C/C++/C#
+P4_d_5;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;5;.NET
+P4_d_6;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;6;Java
+P4_d_7;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;7;Julia
+P4_d_8;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;8;SAS/Stata
+P4_d_9;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;9;Visual Basic/VBA
+P4_d_10;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;10;Scala
+P4_d_11;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;11;Matlab
+P4_d_12;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;12;PHP
+P4_d_13;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;13;Javascript
+P4_d_14;Parte4;Conhecimentos na área de dados;P4_d;Opção da Pergunta Aberta P4_d;Quais das linguagens listadas abaixo você utiliza no trabalho?;14;Não utilizo nenhuma linguagem
+P4_e;Parte4;Conhecimentos na área de dados;P4_e;Fechada;Entre as linguagens listadas abaixo, qual é a que você mais utiliza no trabalho?;-;-
+P4_f;Parte4;Conhecimentos na área de dados;P4_f;Aberta;Entre as linguagens listadas abaixo, qual é a sua preferida?;-;-
+P4_g;Parte4;Conhecimentos na área de dados;P4_g;Aberta;Quais das opções de Cloud listadas abaixo você utiliza no trabalho?;-;-
+P4_g_1;Parte4;Conhecimentos na área de dados;P4_g;Opção da Pergunta Aberta P4_g;Quais das opções de Cloud listadas abaixo você utiliza no trabalho?;1;MySQL
+P4_g_2;Parte4;Conhecimentos na área de dados;P4_g;Opção da Pergunta Aberta P4_g;Quais das opções de Cloud listadas abaixo você utiliza no trabalho?;2;Oracle
+P4_g_3;Parte4;Conhecimentos na área de dados;P4_g;Opção da Pergunta Aberta P4_g;Quais das opções de Cloud listadas abaixo você utiliza no trabalho?;3;SQL SERVER
+P4_f_4;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;4;Amazon Aurora ou RDS
+P4_f_5;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;5;DynamoDB
+P4_f_6;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;6;CoachDB
+P4_f_7;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;7;Cassandra
+P4_f_8;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;8;MongoDB
+P4_f_9;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;9;MariaDB
+P4_f_10;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;10;Datomic
+P4_f_11;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;11;S3
+P4_f_12;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;12;PostgreSQL
+P4_f_13;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;13;ElasticSearch
+P4_f_14;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;14;DB2
+P4_f_15;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;15;Microsoft Access
+P4_f_16;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;16;SQLite
+P4_f_17;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;17;Sybase
+P4_f_18;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;18;Firebase
+P4_f_19;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;19;Vertica
+P4_f_20;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;20;Redis
+P4_f_21;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;21;Neo4J
+P4_f_22;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;22;Google BigQuery
+P4_f_23;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;23;Google Firestore
+P4_f_24;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;24;Amazon Redshift
+P4_f_25;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;25;Amazon Athena
+P4_f_26;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;26;Snowflake
+P4_f_27;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;27;Databricks
+P4_f_28;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;28;HBase
+P4_f_29;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;29;Presto
+P4_f_30;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;30;Splunk
+P4_f_31;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;31;SAP HANA
+P4_f_32;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;32;Hive
+P4_f_33;Parte4;Conhecimentos na área de dados;P4_f;Opção da Pergunta Aberta P4_f;Entre as linguagens listadas abaixo, qual é a sua preferida?;33;Firebird
+P4_g;Parte4;Conhecimentos na área de dados;P4_g;Opção da Pergunta Aberta P4_g;Quais das opções de Cloud listadas abaixo você utiliza no trabalho?;-;-
+P4_h;Parte4;Conhecimentos na área de dados;P4_h;Aberta;Dentre as opções listadas, qual sua Cloud preferida?;-;-
+P4_h_1;Parte4;Conhecimentos na área de dados;P4_h;Opção da Pergunta Aberta P4_h;Dentre as opções listadas, qual sua Cloud preferida?;1;Azure (Microsoft)
+P4_h_2;Parte4;Conhecimentos na área de dados;P4_h;Opção da Pergunta Aberta P4_h;Dentre as opções listadas, qual sua Cloud preferida?;2;Amazon Web Services (AWS)
+P4_h_3;Parte4;Conhecimentos na área de dados;P4_h;Opção da Pergunta Aberta P4_h;Dentre as opções listadas, qual sua Cloud preferida?;3;Google Cloud (GCP)
+P4_i;Parte4;Conhecimentos na área de dados;P4_i;Aberta;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;-;-
+P4_i_1;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;1;Microsoft PowerBI
+P4_i_2;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;2;Qlik View/Qlik Sense
+P4_i_3;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;3;Tableau
+P4_i_4;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;4;Metabase
+P4_i_5;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;5;Superset
+P4_i_6;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;6;Redash
+P4_i_7;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;7;MicroStrategy
+P4_i_8;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;8;IBM Analytics/Cognos
+P4_i_9;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;9;SAP Business Objects
+P4_i_10;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;10;Oracle Business Intelligence
+P4_i_11;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;11;Amazon QuickSight
+P4_i_12;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;12;Salesforce/Einstein Analytics
+P4_i_13;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;13;Mode
+P4_i_14;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;14;Alteryx
+P4_i_15;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;15;Birst
+P4_i_16;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;16;Looker
+P4_i_17;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;17;Google Data Studio
+P4_i_18;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;18;SAS Visual Analytics
+P4_i_19;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;19;Grafana
+P4_i_20;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;20;TIBCO Spotfire
+P4_i_21;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;21;Pentaho
+P4_i_22;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;22;Fazemos todas as análises utilizando apenas Excel ou planilhas do google
+P4_i_23;Parte4;Conhecimentos na área de dados;P4_i;Opção da Pergunta Aberta P4_i;Dentre as opções listadas, qual sua ferramenta de visualização preferida?;23;Não utilizo nenhuma ferramenta de BI no trabalho
+P5_a;Parte5;Objetivos na área de dados;P5_a;Fechada;Qual seu objetivo na área de dados?;-;-
+P5_b;Parte5;Objetivos na área de dados;P5_b;Fechada;Qual oportunidade você está buscando?;-;-
+P5_c;Parte5;Objetivos na área de dados;P5_c;Fechada;Há quanto tempo você busca uma oportunidade na área de dados?;-;-
+P5_d;Parte5;Objetivos na área de dados;P5_d;Fechada;Como tem sido a busca por um emprego na área de dados?;-;-
+P6_a;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Aberta;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;-;-
+P6_a_1;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Opção da Pergunta Aberta P6_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;1;Desenvolvo pipelines de dados utilizando linguagens de programação como Python, Scala, Java etc.
+P6_a_2;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Opção da Pergunta Aberta P6_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;2;Realizo construções de ETL
+P6_a_3;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Opção da Pergunta Aberta P6_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;3;Crio consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.
+P6_a_4;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Opção da Pergunta Aberta P6_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;4;Atuo na integração de diferentes fontes de dados através de plataformas proprietárias como Stitch Data, Fivetran etc.
+P6_a_5;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Opção da Pergunta Aberta P6_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;5;Modelo soluções de arquitetura de dados, criando componentes de ingestão de dados, transformação e recuperação da informação.
+P6_a_6;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Opção da Pergunta Aberta P6_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;6;Desenvolvo/cuido da manutenção de repositórios de dados baseados em streaming de eventos como Data Lakes e Data Lakehouses.
+P6_a_7;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Opção da Pergunta Aberta P6_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;7;Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts etc.
+P6_a_8;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Opção da Pergunta Aberta P6_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;8;Cuido da qualidade dos dados, metadados e dicionário de dados.
+P6_a_9;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_a;Opção da Pergunta Aberta P6_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?;9;Nenhuma das opções listadas refletem meu dia a dia.
+P6_b;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Aberta;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;-;-
+P6_b_1;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;1;Scripts Python
+P6_b_2;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;2;SQL & Stored Procedures
+P6_b_3;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;3;Apache Airflow
+P6_b_4;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;4;Luigi
+P6_b_5;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;5;AWS Glue
+P6_b_6;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;6;Talend
+P6_b_7;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;7;Pentaho
+P6_b_8;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;8;Alteryx
+P6_b_9;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;9;Stitch
+P6_b_10;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;10;Fivetran
+P6_b_11;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;11;Google Dataflow
+P6_b_12;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;12;Oracle Data Integrator
+P6_b_13;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;13;IBM DataStage
+P6_b_14;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;14;SAP BW ETL
+P6_b_15;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;15;SQL Server Integration Services (SSIS)
+P6_b_16;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;16;SAS Data Integration
+P6_b_17;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;17;Qlik Sense
+P6_b_18;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;18;Knime
+P6_b_19;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;19;Databricks
+P6_b_19;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_b;Opção da Pergunta Aberta P6_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?;19;Não utilizo ferramentas de ETL
+P6_c;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_c;Fechada;Sua organização possui um Data Lake?;-;-
+P6_d;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_d;Fechada;Qual tecnologia utilizada como plataforma do Data Lake?;-;-
+P6_e;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_e;Fechada;Sua organização possui um Data Warehouse?;-;-
+P6_f;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_f;Fechada;Qual tecnologia utilizada como plataforma do Data Warehouse?;-;-
+P6_g;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Aberta;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;-;-
+P6_g_1;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;1;great_expectations
+P6_g_2;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;2;dbt
+P6_g_3;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;3;AWS Deequ
+P6_g_4;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;4;Apache Griffin
+P6_g_5;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;5;Datafold
+P6_g_6;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;6;Amundsen
+P6_g_7;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;7;Monte Carlo
+P6_g_8;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;8;SODA
+P6_g_9;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;9;Big Eye
+P6_g_10;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;10;Data Band
+P6_g_11;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;11;Anomalo
+P6_g_l;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;l;Metaplane
+P6_g_m;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_g;Opção da Pergunta Aberta P6_g;Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?;m;Acceldata
+P6_h;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Aberta;Em qual das opções abaixo você gasta a maior parte do seu tempo?;-;-
+P6_h_1;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Opção da Pergunta Aberta P6_h;Em qual das opções abaixo você gasta a maior parte do seu tempo?;1;Desenvolvendo pipelines de dados utilizando linguagens de programação como Python, Scala, Java etc.
+P6_h_2;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Opção da Pergunta Aberta P6_h;Em qual das opções abaixo você gasta a maior parte do seu tempo?;2;Realizando construções de ETL
+P6_h_3;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Opção da Pergunta Aberta P6_h;Em qual das opções abaixo você gasta a maior parte do seu tempo?;3;Criando consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.
+P6_h_4;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Opção da Pergunta Aberta P6_h;Em qual das opções abaixo você gasta a maior parte do seu tempo?;4;Atuando na integração de diferentes fontes de dados através de plataformas proprietárias como Stitch Data, Fivetran etc.
+P6_h_5;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Opção da Pergunta Aberta P6_h;Em qual das opções abaixo você gasta a maior parte do seu tempo?;5;Modelando soluções de arquitetura de dados, criando componentes de ingestão de dados, transformação e recuperação da informação.
+P6_h_6;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Opção da Pergunta Aberta P6_h;Em qual das opções abaixo você gasta a maior parte do seu tempo?;6;Desenvolvendo/cuidando da manutenção de repositórios de dados baseados em streaming de eventos como Data Lakes e Data Lakehouses.
+P6_h_7;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Opção da Pergunta Aberta P6_h;Em qual das opções abaixo você gasta a maior parte do seu tempo?;7;Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts etc.
+P6_h_8;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Opção da Pergunta Aberta P6_h;Em qual das opções abaixo você gasta a maior parte do seu tempo?;8;Cuidando da qualidade dos dados, metadados e dicionário de dados.
+P6_h_9;Parte6;Conhecimentos em Engenharia de Dados/DE;P6_h;Opção da Pergunta Aberta P6_h;Em qual das opções abaixo você gasta a maior parte do seu tempo?;9;Nenhuma das opções listadas refletem meu dia a dia.
+P7_a;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Aberta;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;-;-
+P7_a_1;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;1;Processo e analiso dados utilizando linguagens de programação como Python, R etc.
+P7_a_2;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;2;Realizo construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik etc.
+P7_a_3;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;3;Crio consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.
+P7_a_4;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;4;Utilizo API
+P7_a_5;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;5;Realizo experimentos e estudos utilizando metodologias estatísticas como teste de hipótese, modelos de regressão etc.
+P7_a_6;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;6;Desenvolvo/cuido da manutenção de ETL
+P7_a_7;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;7;Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados, Data Warehouses, Data Marts etc.
+P7_a_8;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;8;Desenvolvo/cuido da manutenção de planilhas para atender as áreas de negócio.
+P7_a_9;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;9;Utilizo ferramentas avançadas de estatística como SAS
+P7_a_10;Parte7;Conhecimentos em Análise de Dados/DA;P7_a;Opção da Pergunta Aberta P7_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?;10;Nenhuma das opções listadas refletem meu dia a dia.
+P7_b;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Aberta;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;-;-
+P7_b_1;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;1;Scripts Python
+P7_b_2;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;2;SQL & Stored Procedures
+P7_b_3;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;3;Apache Airflow
+P7_b_4;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;4;Luigi
+P7_b_5;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;5;AWS Glue
+P7_b_6;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;6;Talend
+P7_b_7;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;7;Pentaho
+P7_b_8;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;8;Alteryx
+P7_b_9;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;9;Stitch
+P7_b_10;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;10;Fivetran
+P7_b_11;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;11;Google Dataflow
+P7_b_12;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;12;Oracle Data Integrator
+P7_b_13;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;13;IBM DataStage
+P7_b_14;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;14;SAP BW ETL
+P7_b_15;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;15;SQL Server Integration Services (SSIS)
+P7_b_16;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;16;SAS Data Integration
+P7_b_17;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;17;Qlik Sense
+P7_b_18;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;18;Knime
+P7_b_19;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;19;Databricks
+P7_b_20;Parte7;Conhecimentos em Análise de Dados/DA;P7_b;Opção da Pergunta Aberta P7_b;Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?;20;Não utilizo ferramentas de ETL
+P7_c;Parte7;Conhecimentos em Análise de Dados/DA;P7_c;Aberta;Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomia em análise de dados para as áreas de negócio?;-;-
+P7_c_1;Parte7;Conhecimentos em Análise de Dados/DA;P7_c;Opção da Pergunta Aberta P7_c;Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomia em análise de dados para as áreas de negócio?;1;Ferramentas de AutoML como H2O.ai, Data Robot, BigML etc.
+P7_c_2;Parte7;Conhecimentos em Análise de Dados/DA;P7_c;Opção da Pergunta Aberta P7_c;Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomia em análise de dados para as áreas de negócio?;2;"""""Point and Click"""" Analytics como Alteryx, Knime, Rapidminer etc."
+P7_c_3;Parte7;Conhecimentos em Análise de Dados/DA;P7_c;Opção da Pergunta Aberta P7_c;Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomia em análise de dados para as áreas de negócio?;3;Product metricts & Insights como Mixpanel, Amplitude, Adobe Analytics.
+P7_c_4;Parte7;Conhecimentos em Análise de Dados/DA;P7_c;Opção da Pergunta Aberta P7_c;Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomia em análise de dados para as áreas de negócio?;4;Ferramentas de análise dentro de ferramentas de CRM como Salesforce Einstein Anaytics ou Zendesk dashboards.
+P7_c_5;Parte7;Conhecimentos em Análise de Dados/DA;P7_c;Opção da Pergunta Aberta P7_c;Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomia em análise de dados para as áreas de negócio?;5;Minha empresa não utiliza essas ferramentas.
+P7_c_6;Parte7;Conhecimentos em Análise de Dados/DA;P7_c;Opção da Pergunta Aberta P7_c;Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomia em análise de dados para as áreas de negócio?;6;Não sei informar.
+P7_d;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Aberta;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;-;-
+P7_d_1;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;1;Processando e analisando dados utilizando linguagens de programação como Python, R etc.
+P7_d_2;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;2;Realizando construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik etc.
+P7_d_3;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;3;Criando consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.
+P7_d_4;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;4;Utilizando API
+P7_d_5;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;5;Realizando experimentos e estudos utilizando metodologias estatísticas como teste de hipótese, modelos de regressão etc.
+P7_d_6;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;6;Desenvolvendo/cuidando da manutenção de ETL
+P7_d_7;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;7;Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dados, Data Warehouses, Data Marts etc.
+P7_d_8;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;8;Desenvolvendo/cuidando da manutenção de planilhas do Excel ou Google Sheets para atender as áreas de negócio.
+P7_d_9;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;9;Utilizando ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises.
+P7_d_10;Parte7;Conhecimentos em Análise de Dados/DA;P7_d;Opção da Pergunta Aberta P7_d;Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?;10;Nenhuma das opções listadas refletem meu dia a dia.
+P8_a;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Aberta;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;-;-
+P8_a_1;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;1;Estudos Ad-hoc com o objetivo de confirmar hipóteses, realizar modelos preditivos, forecasts, análise de cluster para resolver problemas pontuais e responder perguntas das áreas de negócio.
+P8_a_2;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;2;Sou responsável pela coleta e limpeza dos dados que uso para análise e modelagem.
+P8_a_3;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;3;Sou responsável por entrar em contato com os times de negócio para definição do problema, identificar a solução e apresentação de resultados.
+P8_a_4;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;4;Desenvolvo modelos de Machine Learning com o objetivo de colocar em produção em sistemas (produtos de dados).
+P8_a_5;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;5;Sou responsável por colocar modelos em produção, criar os pipelines de dados, APIs de consumo e monitoramento.
+P8_a_6;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;6;Cuido da manutenção de modelos de Machine Learning já em produção, atuando no monitoramento, ajustes e refatoração quando necessário.
+P8_a_7;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;7;Realizo construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik, etc
+P8_a_8;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;8;Utilizo ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises estatísticas e ajustar modelos.Crio e dou manutenção em ETLs, DAGs e automações de pipelines de dados.
+P8_a_9;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;9;Crio e dou manutenção em ETLs, DAGs e automações de pipelines de dados.
+P8_a_10;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;10;Crio e gerencio soluções de Feature Store e cultura de MLOps.
+P8_a_11;Parte8;Conhecimentos em Ciências de Dados/DS;P8_a;Opção da Pergunta Aberta P8_a;Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?;11;Sou responsável por criar e manter a infra que meus modelos e soluções rodam (clusters, servidores, API, containers, etc.)
+P8_b;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Aberta;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;-;-
+P8_b_1;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;1;Utilizo modelos de regressão (linear, logística, GLM)
+P8_b_2;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;2;Utilizo redes neurais ou modelos baseados em árvore para criar modelos de classificação
+P8_b_3;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;3;Desenvolvo sistemas de recomendação (RecSys)
+P8_b_4;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;4;Utilizo métodos estatísticos Bayesianos para analisar dados
+P8_b_5;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;5;Utilizo técnicas de NLP (Natural Language Processing) para análisar dados não-estruturados
+P8_b_6;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;6;Utilizo métodos estatísticos clássicos (Testes de hipótese, análise multivariada, sobrevivência, dados longitudinais, inferência estatistica) para analisar dados
+P8_b_7;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;7;Utilizo cadeias de Markov ou HMM
+P8_b_8;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;8;Desenvolvo técnicas de Clusterização (K-means, Spectral, DBScan etc)
+P8_b_9;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;9;Realizo previsões através de modelos de Séries Temporais (Time Series)
+P8_b_10;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;10;Utilizo modelos de Reinforcement Learning (aprendizado por reforço)
+P8_b_11;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;11;Utilizo modelos de Machine Learning para detecção de fraude
+P8_b_l;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;l;Utilizo métodos de Visão Computacional
+P8_b_m;Parte8;Conhecimentos em Ciências de Dados/DS;P8_b;Opção da Pergunta Aberta P8_b;Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?;m;Utilizo modelos de Detecção de Churn
+P8_c;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Aberta;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;-;-
+P8_c_1;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;1;Ferramentas de BI (PowerBI, Looker, Tableau, Qlik etc)
+P8_c_2;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;2;Planilhas (Excel, Google Sheets etc)
+P8_c_3;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;3;Ambientes de desenvolvimento local (R-studio, JupyterLab, Anaconda)
+P8_c_4;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;4;Ambientes de desenvolvimento na nuvem (Google Colab, AWS Sagemaker, Kaggle Notebooks etc)
+P8_c_5;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;5;Ferramentas de AutoML (Datarobot, H2O, Auto-Keras etc)
+P8_c_6;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;6;Ferramentas de ETL (Apache Airflow, NiFi, Stitch, Fivetran, Pentaho etc)
+P8_c_7;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;7;Plataformas de Machine Learning (TensorFlow, Azure Machine Learning, Kubeflow etc)
+P8_c_8;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;8;Feature Store (Feast, Hopsworks, AWS Feature Store, Databricks Feature Store etc)
+P8_c_9;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;9;Sistemas de controle de versão (Github, DVC, Neptune, Gitlab etc)
+P8_c_10;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;10;Plataformas de Data Apps (Streamlit, Shiny, Plotly Dash etc)
+P8_c_11;Parte8;Conhecimentos em Ciências de Dados/DS;P8_c;Opção da Pergunta Aberta P8_c;Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?;11;Ferramentas de estatística avançada como SPSS, SAS, etc.
+P8_d;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Aberta;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;-;-
+P8_d_1;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;1;Estudos Ad-hoc com o objetivo de confirmar hipóteses, realizar modelos preditivos, forecasts, análise de cluster para resolver problemas pontuais e responder perguntas das áreas de negócio.
+P8_d_2;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;2;Coletando e limpando os dados que uso para análise e modelagem.
+P8_d_3;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;3;Entrando em contato com os times de negócio para definição do problema, identificar a solução e apresentação de resultados.
+P8_d_4;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;4;Desenvolvendo modelos de Machine Learning com o objetivo de colocar em produção em sistemas (produtos de dados).
+P8_d_5;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;5;Colocando modelos em produção, criando os pipelines de dados, APIs de consumo e monitoramento.
+P8_d_6;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;6;Cuidando da manutenção de modelos de Machine Learning já em produção, atuando no monitoramento, ajustes e refatoração quando necessário.
+P8_d_7;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;7;Realizando construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik, etc.
+P8_d_8;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;8;Utilizando ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises.
+P8_d_9;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;9;Criando e dando manutenção em ETLs, DAGs e automações de pipelines de dados.
+P8_d_10;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;10;Criando e gerenciando soluções de Feature Store e cultura de MLOps.
+P8_d_11;Parte8;Conhecimentos em Ciências de Dados/DS;P8_d;Opção da Pergunta Aberta P8_d;Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?;11;Criando e mantendo a infra que meus modelos e soluções rodam (clusters, servidores, API, containers, etc.)
